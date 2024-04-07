@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{611F31B8-17F5-4A2C-B1B1-9C93936D7F53}|Static, Interface, Extension\\Static, Interface, Extension.csproj|c:\\users\\hp\\onedrive\\desktop\\static, interface, extension\\static, interface, extension\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611F31B8-17F5-4A2C-B1B1-9C93936D7F53}|Static, Interface, Extension\\Static, Interface, Extension.csproj|solutionrelative:static, interface, extension\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F31B8-17F5-4A2C-B1B1-9C93936D7F53}|Static, Interface, Extension\\Static, Interface, Extension.csproj|c:\\users\\hp\\onedrive\\desktop\\static, interface, extension\\static, interface, extension\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611F31B8-17F5-4A2C-B1B1-9C93936D7F53}|Static, Interface, Extension\\Static, Interface, Extension.csproj|solutionrelative:static, interface, extension\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F31B8-17F5-4A2C-B1B1-9C93936D7F53}|Static, Interface, Extension\\Static, Interface, Extension.csproj|c:\\users\\hp\\onedrive\\desktop\\static, interface, extension\\static, interface, extension\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611F31B8-17F5-4A2C-B1B1-9C93936D7F53}|Static, Interface, Extension\\Static, Interface, Extension.csproj|solutionrelative:static, interface, extension\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F31B8-17F5-4A2C-B1B1-9C93936D7F53}|Static, Interface, Extension\\Static, Interface, Extension.csproj|c:\\users\\hp\\onedrive\\desktop\\static, interface, extension\\static, interface, extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611F31B8-17F5-4A2C-B1B1-9C93936D7F53}|Static, Interface, Extension\\Static, Interface, Extension.csproj|solutionrelative:static, interface, extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extension\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Models\\Student.cs",
+              "RelativeToolTip": "Static, Interface, Extension\\Models\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:56:02.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extension\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Models\\Group.cs",
+              "RelativeToolTip": "Static, Interface, Extension\\Models\\Group.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:04:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Extension\\Helper.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extension\\Extension\\Helper.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Extension\\Helper.cs",
+              "RelativeToolTip": "Static, Interface, Extension\\Extension\\Helper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:01:51.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Program.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extension\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Program.cs",
+              "RelativeToolTip": "Static, Interface, Extension\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:01:07.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
